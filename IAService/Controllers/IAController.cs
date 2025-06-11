@@ -39,7 +39,20 @@ namespace IAService.Controllers
 
             //Armamos el prompt para Ollama con los datos encontrados
             var prompt = resultadoConsulta.Any()
-                ? $"Pregunta: {pregunta}\n\nDatos disponibles:\n{string.Join("\n", resultadoConsulta)}\n\nGenera una respuesta natural, clara y empática basada en la pregunta y los datos, no te disculpes con el usuario y tambien verifica en los resultados si la clase consultada tuvo algun cambio de salon en los campos CambioMotivo y NuevoSalon de los datos disponibles, en caso de que se haya cambiado explica empaticamente que al comienzo estaba en un salon pero se cambio por el motivo que diga el resultado de la consulta si los campos estan vacios responde sencillamente la pregunta sin dar mucha explicacion, de la forma mas amable posible."
+            ? $"""
+            Responde de forma amable, clara y breve a la siguiente pregunta del usuario:
+
+            Pregunta: {pregunta}
+
+            Datos disponibles:
+            {string.Join("\n", resultadoConsulta)}
+
+            Si en los datos hay un cambio de salón (ver campos 'CambioMotivo' y 'NuevoSalonNombre'), menciona que el salón fue cambiado, indica el nuevo salón y el motivo.
+
+            Si no hay cambio (es decir, esos campos están vacíos), responde directamente a la pregunta sin dar explicaciones innecesarias.
+
+            No te disculpes. Sé empático pero breve y directo.
+            """
                 : $"No se encontraron resultados para la pregunta: '{pregunta}'. Responde de manera amable indicando que no hay datos disponibles.";
 
             var respuesta = await ConsultarOllama(prompt);

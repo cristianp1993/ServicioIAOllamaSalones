@@ -42,8 +42,7 @@
               "RelativeToolTip": "IAService\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-11T02:45:46.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T02:45:46.385Z"
             },
             {
               "$type": "Document",
@@ -53,7 +52,7 @@
               "RelativeDocumentMoniker": "IAService\\Controllers\\IAController.cs",
               "ToolTip": "D:\\Cristian\\ING\\ARQUITECTURA\\ProyectoU\\IAService\\IAService\\Controllers\\IAController.cs",
               "RelativeToolTip": "IAService\\Controllers\\IAController.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAGgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAswDwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T02:42:36.204Z",
               "EditorCaption": ""
@@ -68,8 +67,7 @@
               "RelativeToolTip": "IAService\\Models\\OllamaResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T02:37:01.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T02:37:01.695Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "IAService\\Models\\PreguntaRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T02:36:40.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T02:36:40.403Z"
             },
             {
               "$type": "Document",
@@ -93,8 +90,7 @@
               "ToolTip": "D:\\Cristian\\ING\\ARQUITECTURA\\ProyectoU\\IAService\\IAService\\IAService.csproj",
               "RelativeToolTip": "IAService\\IAService.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-11T02:32:05.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T02:32:05.108Z"
             }
           ]
         }

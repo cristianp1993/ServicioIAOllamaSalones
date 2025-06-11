@@ -40,3 +40,4 @@ D:\Cristian\ING\ARQUITECTURA\ProyectoU\IAService\IAService\obj\Debug\net8.0\refi
 D:\Cristian\ING\ARQUITECTURA\ProyectoU\IAService\IAService\obj\Debug\net8.0\IAService.pdb
 D:\Cristian\ING\ARQUITECTURA\ProyectoU\IAService\IAService\obj\Debug\net8.0\IAService.genruntimeconfig.cache
 D:\Cristian\ING\ARQUITECTURA\ProyectoU\IAService\IAService\obj\Debug\net8.0\ref\IAService.dll
+D:\Cristian\ING\ARQUITECTURA\ProyectoU\IAService\IAService\obj\Debug\net8.0\IAService.sourcelink.json
