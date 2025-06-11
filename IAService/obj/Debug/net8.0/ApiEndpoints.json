@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "IAService.Controllers.IAController",
+    "Method": "Preguntar",
+    "RelativePath": "api/IA/preguntar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "IAService.Models.PreguntaRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

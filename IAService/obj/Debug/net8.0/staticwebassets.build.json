@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "wjIDjn3ql4gvb8lbi03FCbVj9Zq06ibPbI+MYVu+5uo=",
+  "Source": "IAService",
+  "BasePath": "_content/IAService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
