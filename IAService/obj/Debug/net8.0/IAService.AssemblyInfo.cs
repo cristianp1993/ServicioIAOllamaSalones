@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IAService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e58af082c6ed9f2d9c0571c3ba4fc8b97c407e5a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07926c4a53c805dc485682f6893abf70f3b4700d")]
 [assembly: System.Reflection.AssemblyProductAttribute("IAService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IAService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
